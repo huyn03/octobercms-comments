@@ -1,5 +1,5 @@
 {
-    "name": "huydt/comments",
+    "name": "huydt/comments-plugin",
     "type": "october-plugin",
     "description": "post comments manager",
     "require": {
