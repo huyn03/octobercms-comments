@@ -1,0 +1,6 @@
+plugin:
+    name: 'huydt.comments::lang.plugin.name'
+    description: 'huydt.comments::lang.plugin.description'
+    author: huydt
+    icon: oc-icon-wechat
+    homepage: ''
